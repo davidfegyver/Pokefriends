@@ -1,6 +1,6 @@
 # PokeFriends
 
-This little python-adb script iterates over your pokemon go friends, gets its name, and saves it to the [friends.txt](https://github.com/davidfegyver/pokefriend/friends.txt) file.
+This little python-adb script iterates over your pokemon go friends, gets its name, and saves it to the [friends.txt](https://github.com/davidfegyver/pokefriends/friends.txt) file.
 
 ## Installation
 
